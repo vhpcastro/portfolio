@@ -1,0 +1,14 @@
+.item {
+    width: 15.7rem;
+    height: 17rem;
+    background-image: url(https://cdn.discordapp.com/attachments/710276943592816720/1022270731662409839/Component_7.png);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem-item {
+    width: 50%;
+    height: 70%;
+}
