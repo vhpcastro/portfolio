@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(41, 41, 41);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    width: 90%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.container h1 {
+    font-size: 5rem;
+    color: whitesmoke;
+}
+
+.bold {
+    display: flex;
+}
+
+.p1-1 {
+    font-size: 3rem;
+    color: whitesmoke;
+    margin-right: 1rem;
+}
+
+.p1-2 {
+    font-size: 3rem;
+    color: rgb(228, 50, 50);
+}
+
+.p2 {
+    font-size: 1.5rem;
+    color: whitesmoke;
+}
+
+.p3 {
+    font-size: 1.2rem;
+    color: rgb(204, 204, 204);
+    display: flex;
+    
+}
+
+.reference {
+    width: 40%;
+}
