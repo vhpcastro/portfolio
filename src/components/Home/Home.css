@@ -3,16 +3,16 @@
     padding: 0;
 }
 
-.container {
+.home-container {
     width: 100vw;
-    height: 100vh;
-    background-color: rgb(41, 41, 41);
+    height: 90vh;
+    background-color: rgb(17, 17, 17);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.content {
+.home-content {
     width: 90%;
     height: 50%;
     display: flex;
@@ -20,7 +20,7 @@
     flex-direction: column;
 }
 
-.container h1 {
+.home-container h1 {
     font-size: 5rem;
     color: whitesmoke;
 }
@@ -47,7 +47,7 @@
 
 .p3 {
     font-size: 1.2rem;
-    color: rgb(204, 204, 204);
+    color: rgb(161, 161, 161);
     display: flex;
     
 }

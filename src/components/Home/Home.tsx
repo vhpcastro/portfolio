@@ -6,9 +6,9 @@ function Home() {
     return (
         <>
 
-            <div className="container">
+            <div className="home-container">
 
-                <div className="content">
+                <div className="home-content">
 
                     <div className="introduction">
                         <h1>Hello, I'm Victor,</h1>
@@ -16,7 +16,9 @@ function Home() {
                         <div className="bold">
                             <p className='p1-1'>a front-end</p>
 
-                            <p className='p1-2'>developer.</p>
+                            <p className='p1-2'>developer</p>
+
+                            <p className='p1-1'>.</p>
                         </div>
 
                     </div>
