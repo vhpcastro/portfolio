@@ -51,6 +51,10 @@
     justify-content: space-evenly;
 }
 
+.skill-item {
+    width: 100%;
+}
+
 .skills {
     display: flex;
     justify-content: space-between;
@@ -63,7 +67,7 @@
 }
 
 .bar01-html {
-    width: 35.8rem;
+    width: 44%;
     background-color: whitesmoke;
     height: 5px;
     border-radius: 10px;
@@ -71,7 +75,7 @@
 }
 
 .bar02-html {
-    width: 30.4rem;
+    width: 37.4%;
     background-color: rgb(228, 50, 50);
     height: 5px;
     border-top-left-radius: 10px;
@@ -80,7 +84,7 @@
 }
 
 .bar01-css {
-    width: 35.8rem;
+    width: 44%;
     background-color: whitesmoke;
     height: 5px;
     border-radius: 10px;
@@ -88,7 +92,7 @@
 }
 
 .bar02-css {
-    width: 25rem;
+    width: 30.8%;
     background-color: rgb(228, 50, 50);
     height: 5px;
     border-top-left-radius: 10px;
@@ -97,7 +101,7 @@
 }
 
 .bar01-js {
-    width: 35.8rem;
+    width: 44%;
     background-color: whitesmoke;
     height: 5px;
     border-radius: 10px;
@@ -105,7 +109,7 @@
 }
 
 .bar02-js {
-    width: 17.9rem;
+    width: 22%;
     background-color: rgb(228, 50, 50);
     height: 5px;
     border-top-left-radius: 10px;
@@ -114,7 +118,7 @@
 }
 
 .bar01-react {
-    width: 35.8rem;
+    width: 44%;
     background-color: whitesmoke;
     height: 5px;
     border-radius: 10px;
@@ -122,7 +126,7 @@
 }
 
 .bar02-react {
-    width: 14.3rem;
+    width: 17.6%;
     background-color: rgb(228, 50, 50);
     height: 5px;
     border-top-left-radius: 10px;
